@@ -3,6 +3,8 @@
 
 This module creates Delaunay Triangles very fast with a modified version of [ironwallaby's](https://github.com/darkskyapp/delaunay-fast) implementation. It resizes to fit the canvas that it draws on, so any sized canvas can use triangles-js.
 
+[DEMO HERE](https://raw.githack.com/ao-shen/triangle-js/main/demo/index.html)
+
 
 ### 1. Default Pattern
 ![Demo0](https://github.com/ao-shen/triangle-js/raw/main/images/demo0.gif)
