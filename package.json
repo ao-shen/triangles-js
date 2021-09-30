@@ -1,0 +1,26 @@
+{
+    "name": "trianglesjs",
+    "version": "1.0.1",
+    "description": "A very simple way to create cool triangle patterns on your webpage!",
+    "main": "src/triangle.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ao-shen/triangle-js.git"
+    },
+    "keywords": [
+        "javascript",
+        "canvas",
+        "triangle",
+        "animation",
+        "Delaunay"
+    ],
+    "author": "Alex Shen",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ao-shen/triangle-js/issues"
+    },
+    "homepage": "https://github.com/ao-shen/triangle-js#readme"
+}
