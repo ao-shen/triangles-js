@@ -1,6 +1,6 @@
 {
     "name": "trianglesjs",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "A very simple way to create cool triangle patterns on your webpage!",
     "main": "src/triangle.js",
     "scripts": {
